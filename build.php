@@ -21,5 +21,6 @@ return [
         'model'      => ['User', 'UserType'],
         'view'       => ['index/index'],
     ],
+    //我在mac终端中到此一游
     // 其他更多的模块定义
 ];
